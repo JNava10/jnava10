@@ -1,4 +1,3 @@
-<h3 align="center">~ Nava ~</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnava10&show_icons=true&locale=en" alt="jnava10" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnava10&label=Profile%20views&color=0e75b6&style=flat" alt="jnava10" /> </p>
 
